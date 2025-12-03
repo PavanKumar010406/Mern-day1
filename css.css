@@ -1,0 +1,29 @@
+.one{
+    color: black;
+    background-color: lightblue;
+}
+.Two{
+    color: black;
+    background-color: aqua;
+}
+.Thee{
+    color: azure;
+    background-color: black; 
+}
+.okk{
+    color: azure;
+    background-color: black; 
+}
+
+.kii{
+    color: rgba(255,34,236,0.6);/**using rgb(x,x,x,x(opacity)**/
+    background-color: navajowhite;
+}
+.lii{
+    color: blueviolet;
+    background-color: chartreuse;
+}
+.button{
+    color: aliceblue;
+    background-color: red;
+}
